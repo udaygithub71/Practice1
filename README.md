@@ -1,6 +1,6 @@
-<h1 align="centre">Practice-1 Repository</h1>
+<h1 align=centre>Practice-1 Repository</h1>
 <p>This is Practis</p>
-<table>
+<table border=6>
   <caption>Git Commands</caption>
   <tr>
     <td>S.No</td>
