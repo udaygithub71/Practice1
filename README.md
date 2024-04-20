@@ -1,3 +1,4 @@
+<body>
 <h1 align=centre>Practice-1 Repository</h1>
 <p>This is Practis</p>
 <table border=6>
@@ -23,3 +24,4 @@
     <td>Add New Change to Repo</td>
   </tr>
 </table>
+</body>
